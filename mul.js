@@ -1,0 +1,1 @@
+// multiply code of js
